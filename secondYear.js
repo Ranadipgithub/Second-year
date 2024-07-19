@@ -26,7 +26,7 @@ export const secondYear = [
       "https://www.instagram.com/ankitkumar9731?utm_source=qr&igsh=MWMzdmg2cjRhZnN3aQ==",
   },
   {
-    image: "./Members/Ankita.jpg",
+    image: "./Members/Ankita1.jpg",
     name: "Ankita Mukherjee",
     post: "Member",
     linkedin:
